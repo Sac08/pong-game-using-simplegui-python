@@ -1,6 +1,3 @@
-LINK==>http://codeskulptor-user42.commondatastorage.googleapis.com/user42_kH8aaCcfqHwI9cS.py
-OR==>http://www.codeskulptor.org/#user42_kH8aaCcfqHwI9cS.py
-
 # Implementation of classic arcade game Pong
 
 import simplegui
